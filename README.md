@@ -1,2 +1,2 @@
-# Ledger-by-Protocol-V.I.E.
+Protocol-V.I.E.
 Inside
