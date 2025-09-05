@@ -40,23 +40,31 @@ Vector • Integrity • Execution
 
 Preface — Mission & Mandate
 
-	Chapter I. General Principles
-	I.1 Mandate of the Protocol
+	
+ Chapter I. General Principles
+	
+I.1 Mandate of the Protocol
 I.2 Structure of Protocol Records
-	I.3 Anchor Hash Principle
-	Chapter II. VIE NFT Protocol (By NAZACODE)
-	II.1 Principle of NFT Registration
-	II.2 Purpose of Dual NFT
-	II.3 Legal Caveats
-	II.4 Status
-	Chapter III. Legal & Witness Effect
-	III.1 Digital Notariat Function
-	III.2 Jurisdiction & Trust
-	III.3 Execution Authority
-	Chapter IV. Publication Flow (Open Documents)
-	IV.1 Open Chain of Publication
-	IV.2 Publication Path
-	IV.3 Principle of Multi-Layer Witnessing
+I.3 Anchor Hash Principle
+	
+ Chapter II. VIE NFT Protocol (By NAZACODE)
+	
+II.1 Principle of NFT Registration	
+II.2 Purpose of Dual NFT
+II.3 Legal Caveats
+II.4 Status
+	
+ Chapter III. Legal & Witness Effect
+	
+III.1 Digital Notariat Function
+III.2 Jurisdiction & Trust
+III.3 Execution Authority
+	
+ Chapter IV. Publication Flow (Open Documents)
+	
+IV.1 Open Chain of Publication
+IV.2 Publication Path
+IV.3 Principle of Multi-Layer Witnessing
 	IV.4 Official PDF Publication via Facebook
 	IV.5 Official PDF Publication via LinkedIn
 	Chapter V. Semi-Private Documents
