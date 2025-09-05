@@ -3,10 +3,10 @@ Protocol - V.I.E.
 Inside
 
 
-"""Ref. VIE2025082601dd / #VIE2025082601dd
+Ref. VIE2025082601dd / #VIE2025082601dd
 
 
-"Protocol Policy V.I.E.
+"Protocol Policy V.I.E."
 
 
 V1.0
